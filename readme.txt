@@ -1,4 +1,0 @@
-This is a test repo
-test
-I added this line in the update-readme branch
-EDITED: It is rainy outside today
